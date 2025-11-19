@@ -20,7 +20,7 @@ const app = express();
 const port = 8000;
 
 app.use(cors({
-  origin: "http://localhost:5173", // removed trailing slash
+  origin: "https://printify-main.vercel.app", // removed trailing slash
   credentials: true,
 }));
 app.use(express.json());
@@ -68,5 +68,6 @@ app.use((err, req, res, next) => {
 app.listen(port, () => {
   console.log(`Server is running on port: ${port}`);
 });
+
 
 
