@@ -1,0 +1,19 @@
+{
+  "userId": "v5v6cvdg5ksumil athya",
+  "role": "admin",
+  "name": "sumil athya",
+  "email": "saumilathya@gmail.com",
+  "password": "123654",
+  "printing": [
+ 
+  ],
+  "excelfiles": [],
+  "rate": {
+    "name": "jk ",
+    "normal": 6,
+    "blackback": 12,
+    "star": 14,
+    "vinyle": 30
+  },
+  "CrateDate": "2025-11-19T15:54:12.748Z"
+}
